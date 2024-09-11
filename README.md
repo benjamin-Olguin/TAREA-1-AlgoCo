@@ -12,6 +12,6 @@ def my_function(parametro_1, parametro_2, ...)
 *  parametro_2  : Tipo
 * ...
 ***
-Breve descripción de qué hace la función y qué retorna.
+Breve descripción de qué hace la función
 '''
 "  
